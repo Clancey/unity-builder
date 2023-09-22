@@ -13,9 +13,9 @@ mkdir -p "$ACTIVATE_LICENSE_PATH"
 #
 # Run steps
 #
-source $ACTION_FOLDER/platforms/mac/steps/activate.sh
+# source $ACTION_FOLDER/platforms/mac/steps/activate.sh
 source $ACTION_FOLDER/platforms/mac/steps/build.sh
-source $ACTION_FOLDER/platforms/mac/steps/return_license.sh
+# source $ACTION_FOLDER/platforms/mac/steps/return_license.sh
 
 #
 # Remove license activation directory
